@@ -34,7 +34,7 @@ The goal of this password generator is to have an applicaation that an employee 
 ## Screenshots 
 
 The following shows the web applications appearance in its limited functionality: 
-![Password_Generator](./images/JavaScript-Password-Generator-index-html.jpg)
+![Password_Generator](./Images/JavaScript-Password-Generator-index-html.jpg)
 
 ## Badges 
 
@@ -45,7 +45,7 @@ The following shows the web applications appearance in its limited functionality
 ## Tests 
 
 To test password generator, click the "generate button" and follow the prompts until the code breaks. 
-![Generate_bUtton](./images/JavaScript-Password-Generator-index-html.jpg)
+![Generate_bUtton](./Images/JavaScript-Password-Generator-index-html.jpg)
 
 ## License 
 
