@@ -1,5 +1,5 @@
 # JavaScript_Password_Generator
-The goal of this password generator is to have an applicaation that an employee can use to generate a random password based on criteria thay've selected by modifying the provided starter code. The actual application is not a successful execution of the inteded goal. 
+This password generator is an application that an employee can use to generate a random password based on criteria that they have selected by modifying the provided starter code. 
 
 ## Installation 
 
@@ -9,7 +9,7 @@ The goal of this password generator is to have an applicaation that an employee 
 
 ## Password Generator 
 
-- The following were the criteria intended to be achieved for password generator:
+- The following were the criteria for the password generator:
     GIVEN I need a new, secure password
     WHEN I click the button to generate a password
     THEN I am presented with a series of prompts for password criteria
@@ -26,7 +26,6 @@ The goal of this password generator is to have an applicaation that an employee 
     WHEN the password is generated
     THEN the password is either displayed in an alert or written to the page
 
-- The current password generator achieves a few prompts but is missing many of the criteria above. 
 
 ## Credits 
 1. Trilogy Education Services, a 2u, Inc. brand. 
